@@ -1,0 +1,22 @@
+{
+  "numtheory": {
+    "boring": {
+      "type": "bool",
+      "value": "false"
+    },
+    "perfection": [
+      {
+        "type": "integer",
+        "value": "6"
+      },
+      {
+        "type": "integer",
+        "value": "28"
+      },
+      {
+        "type": "integer",
+        "value": "496"
+      }
+    ]
+  }
+}
